@@ -18,7 +18,6 @@ Styled with bootstrap
   - Server : XAMPP/Apache
 
 **Installation**
-
 - Move folders to htdocs
 - create database named "bookdb"
 - import database schema
