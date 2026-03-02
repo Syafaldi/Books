@@ -3,13 +3,13 @@
 **Feature**
 
 CRUD for both Books and Categories
-Filter books by :
-  - Category
-  - Title/Author/Publisher
-  - Year published
-Category relationship
-Prepared statements just because
-Styled with bootstrap
+  - Filter books by :
+    - Category
+    - Title/Author/Publisher
+    - Year published
+  - Category relationship
+  - Prepared statements just because
+  - Styled with bootstrap
 
 **Tech Stack**
   - Backend : PHP,MySQLi
