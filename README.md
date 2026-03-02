@@ -12,14 +12,10 @@ Prepared statements just because
 Styled with bootstrap
 
 **Tech Stack**
-
-Backend : PHP,MySQLi
-
-Database : MySQL
-
-Frontend : HTML,Bootstrap
-
-Server : XAMPP/Apache
+  - Backend : PHP,MySQLi
+  - Database : MySQL
+  - Frontend : HTML,Bootstrap
+  - Server : XAMPP/Apache
 
 **Installation**
 
